@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 # RTM_HC
-=======
-<<<<<<< HEAD
+
 # RTM_HC
-=======
+
 
 # Real-Time Monitoring System for Healthcare
 
@@ -37,5 +36,3 @@ This project processes patient health data, identifies abnormalities, and integr
 3. Run the C++ program for data analysis.
 4. Upload the dataset to AWS S3 for further processing.
 
->>>>>>> 15ab585 (Initial commit: Real-Time Monitoring System for Healthcare)
->>>>>>> 59cf179 (Initial commit: Real-Time Monitoring System for Healthcare)
