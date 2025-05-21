@@ -1,7 +1,4 @@
 
-# RTM_HC
-
-# RTM_HC
 
 
 # Real-Time Monitoring System for Healthcare
